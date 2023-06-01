@@ -457,11 +457,11 @@ export const kpis = [
         { date: "2022-12-31", revenue: "$549.52", expenses: "$577.92" },
         { date: "2023-01-01", revenue: "$832.70", expenses: "$664.41" },
       ],
-      expensesByCategory: {
-        salaries: "$38000.00",
-        supplies: "$13000.00",
-        services: "$10000.00",
-      },
+      // expensesByCategory: {
+      //   salaries: "$38000.00",
+      //   supplies: "$13000.00",
+      //   services: "$10000.00",
+      // },
     },
   ];
   
